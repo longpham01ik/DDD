@@ -1,0 +1,17 @@
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\bin\Debug\library_manager.exe.config
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\bin\Debug\library_manager.exe
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\bin\Debug\library_manager.pdb
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.csproj.AssemblyReference.cache
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.Properties.Resources.resources
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.csproj.GenerateResource.cache
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.csproj.CoreCompileInputs.cache
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.exe
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.pdb
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.fLogin.resources
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.fLibraryManager.resources
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.fBook.resources
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.fAuthor.resources
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.fBill.resources
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.fBookCategory.resources
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.fPublishingCompany.resources
+C:\Users\longp\OneDrive\Máy tính\library_manager\library_manager\library_manager\obj\Debug\library_manager.fUser.resources
